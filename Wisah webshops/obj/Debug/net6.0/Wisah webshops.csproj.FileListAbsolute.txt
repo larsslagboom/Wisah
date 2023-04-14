@@ -1,0 +1,42 @@
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.csproj.AssemblyReference.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.AssemblyInfoInputs.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.AssemblyInfo.cs
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.csproj.CoreCompileInputs.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.RazorAssemblyInfo.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.RazorAssemblyInfo.cs
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\appsettings.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.staticwebassets.runtime.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.exe
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.deps.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.runtimeconfig.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Wisah webshops.pdb
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets\msbuild.Wisah webshops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets\msbuild.build.Wisah webshops.props
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Wisah webshops.props
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Wisah webshops.props
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\scopedcss\bundle\Wisah webshops.styles.css
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\scopedcss\projectbundle\Wisah webshops.bundle.scp.css
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.csproj.CopyComplete
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\refint\Wisah webshops.dll
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.pdb
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\Wisah webshops.genruntimeconfig.cache
+C:\Users\lslag\source\repos\Wisah webshops\Wisah webshops\obj\Debug\net6.0\ref\Wisah webshops.dll
